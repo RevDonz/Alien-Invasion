@@ -37,7 +37,7 @@ class AlienInvasion:
         self._create_fleet()
 
         #Make the play button
-        self.play_button = Button(self, "Play")
+        self.play_button = Button(self, "Mainkan")
 
 
     def run_game(self):
